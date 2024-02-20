@@ -5,12 +5,13 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      //15
+      //16
       <h1 class="title">Hello World! </h1>
       <p id="currentTime"></p>
       <script src="script.js"></script>
       <p>My cat is <strong>very</strong> grumpy.</p>
-<img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />
-<input type="text" disabled="disabled" />
+      <img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />
+      <input type="text" disabled="disabled" />
+      <!-- using the disabled attribute prevents the end user from entering text into the input box -->
   </body>
 </html>
