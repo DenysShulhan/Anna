@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      //36    (на 36 днів підтвердило 30 днів)
+      //37    (на 36 днів підтвердило 30 днів)
       <h1 class="title">Hello World! </h1>
       <p id="currentTime"></p>
       <script src="script.js"></script>
@@ -34,5 +34,6 @@
       <p>I'm not inside a comment</p>
       <p>In HTML, you define a paragraph using the &lt;p&gt; element.</p>
       <p id="whitespace">Dogs
+      <p>In HTML, you define a paragraph using the <p> element.</p>
   </body>
 </html>
