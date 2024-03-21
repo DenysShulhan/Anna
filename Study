@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      //41     (на 36 днів підтвердило 30 днів)
+      //42     (на 36 днів підтвердило 30 днів)
       <h1 class="title">Hello World! </h1>
       <p id="currentTime"></p>
       <script src="script.js"></script>
@@ -30,6 +30,5 @@
        <p>This is my page</p>
       <p>My cat is <strong>very grumpy.</p></strong>
       <html lang="en-US">
-      <p id="whitespace">Dogs
   </body>
 </html>
