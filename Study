@@ -15,7 +15,6 @@
       <input type="text" disabled />
       <!-- text input is allowed, as it doesn't contain the disabled attribute -->
       src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-
-      <img alt="I should be an image" >
       <input type="text" disabled="disabled" />
       <a href='https://www.example.com'>A link to my example.</a>
       <a href=https://www.mozilla.org/>favorite website</a>
