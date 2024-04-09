@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      //60      (на 36 днів підтвердило 30 днів)
+      //61      (на 36 днів підтвердило 30 днів)
       <h1 class="title">Hello World! </h1>
       <script src="script.js"></script>
       <p>My cat is <strong>very</strong> grumpy.</p>
@@ -20,5 +20,6 @@
       <a href=https://www.mozilla.org/>favorite website</a>
       <p>My cat is <strong>very</strong> grumpy.</p>
       <a href=https://www.mozilla.org/>favorite website</a>
+      <p>In HTML, you define a paragraph using the <p> element.</p>
   </body>
 </html>
