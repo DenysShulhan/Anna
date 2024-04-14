@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      //65      (на 36 днів підтвердило 30 днів)
+      //66      (на 36 днів підтвердило 30 днів)
       <script src="script.js"></script>
       <p>My cat is <strong>very</strong> grumpy.</p>
       <img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />
@@ -18,6 +18,5 @@
       <a href='https://www.example.com'>A link to my example.</a>
       <a href=https://www.mozilla.org/>favorite website</a>
       <p>My cat is <strong>very</strong> grumpy.</p>
-      <a href=https://www.mozilla.org/>favorite website</a>
   </body>
 </html>
