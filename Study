@@ -18,5 +18,6 @@
       <a href=https://www.mozilla.org/>favorite website</a>
       <p>In HTML, you define a paragraph using the <p> element.</p>
       <p>My cat is very grumpy</p>
+      <p id="noWhitespace">Dogs are silly.</p>
   </body>
 </html>
