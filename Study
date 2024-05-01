@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      //82         (на 36 днів підтвердило 30 днів)
+      //83         (на 36 днів підтвердило 30 днів)
       <script src="script.js"></script>
       <p>My cat is <strong>very</strong> grumpy.</p>
       <img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />
@@ -19,7 +19,6 @@
       <p>In HTML, you define a paragraph using the <p> element.</p>
       <p id="noWhitespace">Dogs are silly.</p>
       <p>In HTML, you define a paragraph using the <p> element.</p>
-       <p>My cat is <strong>very</strong> grumpy.</p>
         30.04.24 number 40
   </body>
 </html>
