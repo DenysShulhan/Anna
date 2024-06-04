@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      //116              
+      //117              
       <script src="script.js"></script>
       <p>My cat is <strong>very</strong> grumpy.</p>
       <img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />
@@ -23,7 +23,7 @@
       <p>My cat is <strong>very</strong> grumpy.</p>
       <p id="noWhitespace">Dogs are silly.</p> 
       <p id="noWhitespace">Dogs are silly.</p>
-      
+      <p id="noWhitespace">Dogs are silly.</p>
         30.04.24 number 40 
         07.05.24 number 26
         24.05.24 number 9
